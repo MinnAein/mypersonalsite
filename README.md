@@ -1,2 +1,2 @@
 # mypersonalsite
-Testing Proect
+Testing Project
